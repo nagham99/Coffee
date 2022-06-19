@@ -1,0 +1,192 @@
+body {
+  background-image: url(4.jpg) ;
+    background-repeat:repeat;
+    background-size: auto;
+    color:#4d3319;
+    font-family: serif;
+      font-size: 20px;
+    
+    
+    
+}
+background-img{
+background-repeat: repeat;
+    background-size: auto;
+}
+
+nav{
+    filter: alpha(opacity=80);
+    opacity: 0.8;
+    font-size: 20px;
+    font-weight: 500;
+    color:#4d3319;
+    padding: 0px;
+    margin: 0px;
+ 
+    
+    
+}
+div.nav-item nav-link active{
+color:#4d3319;
+}
+
+div.jumbotron-title { 
+    filter: alpha(opacity=80);
+    opacity:0.8;
+    font-size:500;
+    margin-bottom: 10%;
+    
+   
+}
+.h4footer {
+    color:#734d26;
+    margin:1%;
+    
+}
+
+/******* Menu   *******/
+
+
+div.cardMenu{
+    opacity:0.8;
+    filter: alpha(opacity=80);
+    margin:7%;
+    padding:1rem;
+    color:#4d3319;
+    font-family: serif;
+    font-size: 20px;
+  
+   
+}
+
+
+hr {
+  display: block;
+  border-style:solid;
+  border-width:1px;
+}
+
+
+img{
+    border-radius:50%;
+
+
+
+}
+
+p{
+    color:#4d3319;
+}
+
+a{
+    /*light brown */color: #86592d;
+}
+.container{
+filter: alpha(opacity=10);
+    opacity: 1.0;
+}
+
+a.btn-Menu{
+
+
+
+    background-color: #734d26;  
+    color: white;
+  
+}
+
+
+/**********COFFEE***********/
+ 
+div.container,h5,h2,h4,hr{
+color:#4d3319;
+    
+}
+div{
+ 
+padding:0.5rem;
+    
+} 
+.text{
+text-align:left;
+}
+
+
+
+
+/************CONTACT US*********/
+form{
+    color:#4d3319;
+    font-size: 25px;
+    width: 20rem;
+ 
+
+    
+}
+div.cardForm{
+ 
+    opacity: 0.8;
+    padding:6%;
+    border:6%;
+    margin: auto;
+    border-color:#d6d6c2;
+    padding-top: 2rem;
+   
+    
+}
+div.container{
+    color: #dfbf9f;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 100px;
+    font-family: serif;
+    
+    
+    
+  
+}
+.card{
+   text-align:center;
+    display: block;
+    
+}
+
+.btn{
+    border-color:#d6d6c2;
+    background-color:  #734d26;
+    color: white;
+    display: block;
+    width: 75%;
+    margin: auto;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-clip: padding-box;
+    border-radius: .25rem;
+    
+}
+
+/**************Fotter**************/
+.page-footer{
+    background-color: white;
+    filter: alpha(opacity=80);
+    opacity: 0.8;
+    
+    
+   
+    font-weight:400;
+    
+}
+
+
+/************About ************/
+
+.paragraph{
+text-align: center;
+     
+    
+}
+
+
